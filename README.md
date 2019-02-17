@@ -23,6 +23,8 @@ npm start
 
 [Download .apk file](https://www.dropbox.com/s/h2tu1wqa7k9vo1s/work-signed.apk?dl=0)
 
+[Live app demo](https://expo.io/@simofy/work)
+
 <img src="https://i.imgur.com/zo01RTV.gif" alt="Catniper screenshot" />
 
 ## Homework:
