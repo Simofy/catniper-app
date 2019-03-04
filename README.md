@@ -53,6 +53,6 @@ npm start
 +	Allow user to specify count of items to retrieve
 +	Generate signed .apk file, release version
 -	Write tests for chosen react-native component
-+	Store kitten data in app redux state
+-	Store kitten data in app redux state
 +	When all data is fetched for the first time store data in AsyncStorage, to allow user to review kittens when offline
 ```
